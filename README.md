@@ -2,6 +2,8 @@
 
 💻 Sou um entusiasta das linguagens de programação, PHP,Javascript, NodeJS, Python, HTML, CSS e também tenho experiência em manutenção de hardware.
 
+###
+
 📚Estou prestes a dar um grande passo na minha carreira começando meu curso de Análise e Desenvolvimento de Sistemas na universidade FIAP, estou animado para aprofundar meus conhecimentos e aplicar novas perspectivas aos desafios que enfrento diariamente.
 </h2>
 
