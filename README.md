@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateus Felix</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I’m currently working in **Otimotex**
+- 🔭 I’m currently working in **Itau - Unibanco**
 
-- 🌱 I’m currently learning **Python and Figma**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **Career tips for back-end**
 
-- 💬 Ask me about **Mysql, Firebird**
+- 💬 Ask me about **Mysql, Firebird, AWS AnalyticS, Python, Spark, CI/CD.**
 
 - 📫 How to reach me **felix.mateus@Hotmail.com**
 
